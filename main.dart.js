@@ -11159,7 +11159,7 @@ By:function By(){},
 Os:function Os(a,b){this.a=a
 this.b=b},
 lG:function(){var s=null
-return new Z.Mk(A.eM(s,s,C.j,s,s,s,s,s,s,s,s,55,s,s,s,s,!0,s,s,s,s,s,s),A.eM(s,s,C.j,s,s,s,s,s,s,s,s,34,s,s,s,s,!0,s,s,s,s,s,s),A.eM(s,s,C.j,s,s,s,s,s,s,s,s,26,s,s,s,s,!0,s,s,s,s,s,s),A.eM(s,s,C.kN,s,s,s,s,s,s,s,s,20,s,s,s,s,!0,s,s,s,s,s,s))},
+return new Z.Mk(A.eM(s,s,C.j,s,s,s,s,s,s,s,s,55,s,s,s,s,!0,s,s,s,s,s,s),A.eM(s,s,C.j,s,s,s,s,s,s,s,s,34,s,s,s,s,!0,s,s,s,s,s,s),A.eM(s,s,C.j,s,s,s,s,s,s,s,s,26,s,s,s,s,!0,s,s,s,s,s,s),A.eM(s,s,C.kN,s,s,s,s,s,s,s,s,18,s,s,s,s,!0,s,s,s,s,s,s))},
 Mk:function Mk(a,b,c,d){var _=this
 _.a=a
 _.b=b
@@ -48513,7 +48513,7 @@ $S:1}
 Q.oC.prototype={
 aH:function(){return new Q.Ci(C.m)}}
 Q.Ci.prototype={
-P:function(a,b){var s,r,q=null,p=t.w,o=b.Z(p).f.a.a<500?25:75,n=b.Z(p).f
+P:function(a,b){var s,r,q=null,p=t.w,o=b.Z(p).f.a.a<630?20:75,n=b.Z(p).f
 p=b.Z(p).f
 s=X.a0c(C.bx,C.nz,new L.kT("assets/coding_bg.jpg"))
 r=t.fQ
