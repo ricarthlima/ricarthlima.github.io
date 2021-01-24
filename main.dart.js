@@ -10579,7 +10579,7 @@ b1=p}if(r){p=C.aG.h(0,800)
 p.toString
 b2=p}else b2=C.j
 b3=i.l(0,o)?C.j:i
-b4=r?C.u3:P.bh(153,0,0,0)
+b4=r?C.u2:P.bh(153,0,0,0)
 p=C.pR.h(0,700)
 p.toString
 b5=p
@@ -50908,7 +50908,7 @@ l=X.a_o(l,C.or,new L.ip("assets/flutter_me.png",q,q))
 s=M.cw(q,M.TC(C.p_,!0,C.aC,H.c(["Sobre"],t.i),C.aK,Z.d6().b,3),q,q,q,q,q,new V.at(10,0,0,0),q)
 p=b.P(p).f.a.a>1000?new V.at(0,0,b.P(p).f.a.a*0.4,0):new V.at(0,0,0,0)
 r=t.Y
-return M.cw(q,T.h7(B.a35(H.c([s,new T.dn(new V.at(0,0,0,10),q,q),M.cw(q,T.oz(H.c([L.c_("Ricarth Lima",A.c0(q,q,C.hi,q,q,q,q,q,q,q,q,26,q,C.bK,q,q,!0,q,q,q,q,q,q),C.kQ),L.c_("Ol\xe1! Sou programador h\xe1 mais de 10 anos j\xe1 tendo atuado com v\xe1rias tecnologias.\n\nFoi no Ensino M\xe9dio do Col\xe9gio de Aplica\xe7\xe3o - UFPE que desenvolvi junto com minha equipe meu primeiro sistema que seria usado na pr\xe1tica, o LactoRun (2013~) que consiste em uma ferramenta digital para obten\xe7\xe3o da M\xe1xima Fase Est\xe1vel de Lactato por meios n\xe3o invasivos. Nesse projeto j\xe1 usei Programa\xe7\xe3o Visual (MIT App Inventor), Java para Windows, Android com Java e Ruby com Rails.\n\nEm 2017 ingressei no curso de Sistemas de Informa\xe7\xe3o na Universidade Federal de Pernambuco onde descobri que al\xe9m da vontade de desenvolver eu gostava tamb\xe9m de ensinar. Al\xe9m de muitas monitorias, aulas particulares e participa\xe7\xf5es em feiras, o principal \u201coutput\u201d dessa vontade \xe9 o canal no YouTube (Dotcode) que onde lan\xe7o v\xeddeos educativos de computa\xe7\xe3o semanalmente, junto com meu amigo e s\xf3cio @warleysoares. \n\nNa primeira metade do ano de 2019 me aventurei no meu primeiro emprego como estagi\xe1rio de Desenvolvimento Web Full Stack na Serttel. Foi uma experi\xeancia incr\xedvel de aprendizado. Tive que aprender novas tecnologias como Angular 7 (HTML, CSS, Bootstrap, Typescript) para o front, e Spring Boot (Java, JPA, Hibernate) para o back. \n\nEm 2020 me dediquei \xe0 tecnologia na qual esse site \xe9 constru\xeddo e que eu sou apaixonado: o Flutter. \n",A.c0(q,q,C.j,q,q,q,q,q,q,q,q,q,q,q,q,q,!0,q,q,q,q,q,q),C.nC)],r),C.hj,C.k4),C.u2,q,q,q,p,new V.at(10,0,10,0),q)],r),!0),q,q),q,q,new S.cH(q,l,q,q,q,q,C.L),m.a.b,q,new V.at(o,75,o,75),n.a.a)}}
+return M.cw(q,T.h7(B.a35(H.c([s,new T.dn(new V.at(0,0,0,10),q,q),M.cw(q,T.oz(H.c([L.c_("Ricarth Lima",A.c0(q,q,C.hi,q,q,q,q,q,q,q,q,26,q,C.bK,q,q,!0,q,q,q,q,q,q),C.kQ),L.c_("Ol\xe1! Sou programador h\xe1 mais de 10 anos j\xe1 tendo atuado com v\xe1rias tecnologias.\n\nFoi no Ensino M\xe9dio do Col\xe9gio de Aplica\xe7\xe3o - UFPE que desenvolvi junto com minha equipe meu primeiro sistema que seria usado na pr\xe1tica, o LactoRun (2013~) que consiste em uma ferramenta digital para obten\xe7\xe3o da M\xe1xima Fase Est\xe1vel de Lactato por meios n\xe3o invasivos. Nesse projeto j\xe1 usei Programa\xe7\xe3o Visual (MIT App Inventor), Java para Windows, Android com Java e Ruby com Rails.\n\nEm 2017 ingressei no curso de Sistemas de Informa\xe7\xe3o na Universidade Federal de Pernambuco onde descobri que al\xe9m da vontade de desenvolver eu gostava tamb\xe9m de ensinar. Al\xe9m de muitas monitorias, aulas particulares e participa\xe7\xf5es em feiras, o principal \u201coutput\u201d dessa vontade \xe9 o canal no YouTube (Dotcode) que onde lan\xe7o v\xeddeos educativos de computa\xe7\xe3o semanalmente, junto com meu amigo e s\xf3cio @warleysoares. \n\nNa primeira metade do ano de 2019 me aventurei no meu primeiro emprego como estagi\xe1rio de Desenvolvimento Web Full Stack na Serttel. Foi uma experi\xeancia incr\xedvel de aprendizado. Tive que aprender novas tecnologias como Angular 7 (HTML, CSS, Bootstrap, Typescript) para o front, e Spring Boot (Java, JPA, Hibernate) para o back. \n\nEm 2020 me dediquei \xe0 tecnologia na qual esse site \xe9 constru\xeddo e que eu sou apaixonado: o Flutter. \n",A.c0(q,q,C.j,q,q,q,q,q,q,q,q,q,q,q,q,q,!0,q,q,q,q,q,q),C.nC)],r),C.hj,C.k4),C.u3,q,q,q,p,new V.at(10,0,10,0),q)],r),!0),q,q),q,q,new S.cH(q,l,q,q,q,q,C.L),m.a.b,q,new V.at(o,75,o,75),n.a.a)}}
 K.fL.prototype={
 az:function(){return new K.FN(C.m)}}
 K.FN.prototype={
@@ -53118,9 +53118,9 @@ C.oO=new P.F(16777215)
 C.u_=new P.F(1723645116)
 C.u0=new P.F(1724434632)
 C.u1=new P.F(1929379840)
-C.u2=new P.F(2130707742)
 C.G=new P.F(2315255808)
-C.u3=new P.F(2583691263)
+C.u2=new P.F(2583691263)
+C.u3=new P.F(2936014110)
 C.I=new P.F(3019898879)
 C.A=new P.F(3707764736)
 C.u6=new P.F(4039164096)
